@@ -1,8 +1,7 @@
 def foobar(a, b)
   if a == 20
     return b
-  elsif
-    b == 20
+  elsif b == 20
     return a
   else
     return a + b
